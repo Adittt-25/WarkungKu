@@ -45,7 +45,7 @@
 ## 🚀 Cara Menjalankan
 
 ```bash
-git clone https://github.com/username/warungku-uas.git
+git clone https://github.com/Adittt-25/WarkungKu
 cd warungku-uas
 npm install
 npx expo start
@@ -56,18 +56,18 @@ Scan QR Code dengan Expo Go di HP (pastikan HP & laptop di WiFi yang sama).
 
 ## 📦 Download APK
 
-[Download APK terbaru](LINK_APK_GITHUB_RELEASE_ATAU_DRIVE)
+[Download APK terbaru] (https://expo.dev/accounts/raditsmb/projects/warungku-uas/builds/2c15009b-7b7e-437f-8a9c-377dcee3b7fe)
 
 ---
 
 ## 🌐 Expo Snack
 
-[Buka di Expo Snack](LINK_EXPO_SNACK)
+[Buka di Expo Snack](https://snack.expo.dev/@raditsmb/warungku).
 
 ---
 
 ## 👤 Developer
 
-**Radit** | NIM: 243303621259 | Kelas Pemrograman Mobile
+**Raditia Sumana Sembiring** | NIM: 243303621259 | Kelas Pemrograman Mobile
 Universitas Prima Indonesia — Prodi Sistem Informasi
 Mata Kuliah: Pemrograman Mobile (TI-MOBILE-01)
