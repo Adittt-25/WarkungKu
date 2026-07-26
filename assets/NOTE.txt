@@ -1,0 +1,6 @@
+Taruh file berikut di folder ini sebelum build APK:
+- icon.png    (1024x1024 px, logo WarungKu)
+- splash.png  (logo untuk splash screen, background akan otomatis oranye #FF6B35)
+
+Tanpa 2 file ini, `eas build` akan gagal karena app.json mereferensikannya.
+Bisa pakai logo sederhana dari Canva/Figma, atau screenshot icon toko generik dulu untuk keperluan submit.

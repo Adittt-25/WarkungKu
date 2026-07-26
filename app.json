@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "WarungKu",
+    "slug": "warungku-uas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FF6B35"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.radit.warungku",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FF6B35"
+      },
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eb6d3a90-4835-496a-be4f-97e0525785aa"
+      }
+    },
+    "owner": "raditsmb"
+  }
+}
