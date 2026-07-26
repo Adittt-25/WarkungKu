@@ -34,7 +34,7 @@
 
 | Layer | Teknologi |
 |-------|-----------|
-| Framework | React Native + Expo (SDK 51) |
+| Framework | React Native + Expo (SDK 54) |
 | Navigation | React Navigation v6 (Stack + Bottom Tab) |
 | Storage | @react-native-async-storage/async-storage |
 | Device | expo-image-picker |
